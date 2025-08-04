@@ -3,7 +3,7 @@
 export default [
 	{
 		id: 1,
-		title: "Cyclistic",
+		title: "Project1",
 		icon: null,
 		description1:
 			"Google Data Analytics Capstone Project: Case Study 1. ",
@@ -15,7 +15,7 @@ export default [
 	},
 	{
 		id: 2,
-		title: "Bellabeat",
+		title: "Project2",
 		icon: null,
 		description1:
 			"Google Data Analytics Capstone Project: Case Study 2.",
