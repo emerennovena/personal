@@ -1,6 +1,4 @@
 
-import sleeptracker from '../assets/images/sleeptracker.png'
-import sbrowser from '../assets/images/spotifybrowser.png'
 
 export default [
     {
@@ -18,7 +16,7 @@ export default [
       id: 2,
       title: "Sleep Tracker",
       description1: "Mobile application that tracks overnight sleep and sleepiness levels during the day. Data is analyzed and displayed as insights.",
-      icon: sleeptracker,
+      icon: null,
       githubPath: "https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fcheryllg%2FSleep-Tracker-Ionic&sa=D",
       demoPath: null,
       year: "2021",
@@ -28,7 +26,7 @@ export default [
       id: 3,
       title: "Spotify Browser",
       description1: "Webpage implementation that supports searching for artists, albums, and tracks in Spotify.",
-      icon: sbrowser,
+      icon: null,
       githubPath: "https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fcheryllg%2FSpotify-Browser&sa=D",
       demoPath: null,
       year: "2021",
