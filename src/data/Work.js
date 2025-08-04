@@ -9,7 +9,7 @@ export default [
 		logo: null,
 		companyLink: null,
 		description:
-			"<p> <ul><li>Developed various web applications and other software throughout the master's conversion program.</li><li>Developed a language learning web app using Django in final project.</li></p>"
+			"<p> <ul><li>Collaborated on web applications supporting process improvements throughout the master's conversion program.</li><li>Worked in team-based agile projects, simulating real-world business-technology collaboration.</li></p>"
 	},
 	{
 		id: 4,
@@ -19,7 +19,7 @@ export default [
 		logo: null,
 		companyLink: null,
 		description:
-			"<p> <ul><li>Developed strong cross-cultural communication skills through teaching Indonesian to Taiwanese.</li><li>Conducted end-of-semester oral examinations, improving students' ability in their Indonesian language skills.</li><li>Learned to explain complex grammatical structures in simple way to students.</li></p>"
+			"<p> <ul><li>Strengthened cross-cultural communication through teaching and oral assessments.</li><li>Broke down complex concepts into clear, actionable steps—enhancing stakeholder communication skills.</li></p>"
 	},
 	{
 		id: 3,
@@ -29,16 +29,16 @@ export default [
 		logo: null,
 		companyLink: null,
 		description:
-			"<ul><li>Strengthened Chinese communication skills by providing administrative support in a busy academic setting.</li><li>Assisted with various departmental activities to ensure smooth operations.</li></p>"
+			"<ul><li>Supported administrative operations and coordinated departmental activities, contributing to smooth workflows.</li><li>Strengthened professional communication in Mandarin and English.</li></p>"
 		},
 	{
 		id: 2,
 		name: "The Period Purse, Canada",
-		designation: "Intern",
+		designation: "Marketing Intern",
 		dated: "December 2019",
 		logo: null,
 		companyLink: null,
 		description:
-		"<ul><li>Conducted marketing research for a non-profit organisation to assess satisfaction rate and pain points to propose recommendations for improving customer experience.</li><li>Analysed ~10 competitors to prioritise the most profitable products.</li></p>"
+		"<ul><li>Conducted market research and competitor analysis to identify product opportunities.</li><li>Prepared business insights that informed strategy for a nonprofit organization.</li></p>"
 	}
 ];

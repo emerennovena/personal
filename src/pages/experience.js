@@ -71,24 +71,31 @@ const Experience = () => (
 				</EdContent>
 				<h1>Skills</h1>
 				<EdContent>
-					<p>
-						<b>Programming Languages:</b>
-					</p>
-						<ul><li>Python</li>
-							<li>Java</li>
-							<li>HTML</li>
-							<li>JavaScript</li></ul>
-						<br/>
+					<p><b>Business:</b></p>
+					<ul>
+						<li>Market Research</li>
+						<li>Competitor Analysis</li>
+						<li>Cross-Cultural Collaboration</li>
+					</ul>
 
-					<p>
-						Tools:
-					</p>
-						<ul><li>HubSpot</li>
-							<li>Adobe Photoshop</li>
-							<li>MS Office Suite</li>
-							<li>Git</li>
-							<li>Figma</li>
-							<li>Axure RP</li></ul>
+					<p>Tools:</p>
+					<ul>
+						<li>HubSpot</li>
+						<li>Adobe Photoshop</li>
+						<li>MS Office Suite</li>
+						<li>Git</li>
+						<li>Figma</li>
+						<li>Axure RP</li>
+					</ul>
+
+					<p><b>Programming Languages:</b></p>
+					<ul>
+						<li>Python</li>
+						<li>Java</li>
+						<li>HTML</li>
+						<li>JavaScript</li>
+					</ul>
+
 
 				</EdContent>
 			</EdWrapper>
