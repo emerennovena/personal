@@ -10,7 +10,7 @@ const AboutMe = () => (
         <img src={newnewme} height="250px" />
         
         <p style={{ color: '#395696'}}>
-            <h1>Why Business Technology?</h1>
+            <h1>About Me</h1>
             I’m studying Software Development but I’m most interested in combining business and technology.
             I enjoy using tools like CRMs and automation platforms to solve real business problems efficiently.<br/>
 
