@@ -19,7 +19,7 @@ const AboutMe = () => (
         </p>
     </RecRec>
       <h3 style={{ color: '#395696'}}>Interests</h3>
-        <RecDes><ul><li style={{ color: '#395696'}}>Classical Literature</li>
+        <RecDes><ul>
             <li style={{ color: '#395696'}}>Language Learning</li>
             <li style={{ color: '#395696'}}>Stardew Valley</li>
             </ul></RecDes>
