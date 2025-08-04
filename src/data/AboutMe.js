@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        name: "Why Data?",
+        name: "Why Business Technology?",
         designation: null,
         userLink: null,
         dated: null,

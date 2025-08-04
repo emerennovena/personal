@@ -9,10 +9,18 @@ const AboutMe = () => (
     <RecRec>
         <img src={me} height="500px" />
         
-        <p><h1>Why Data?</h1>Data is everywhere. It is all around us, a rich minefield of information that can easily be transformed into useful insights and solutions to real world problems.<br/> <br/> As a child, I’ve always loved patterns and found puzzle solving to be an exhilaratingly challenging pastime. And that’s what data is to me, a complicated puzzle that I can't wait to solve!</p>
+        <p style={{ color: '#395696'}}>
+            <h1>Why Business Technology?</h1>
+            ata is everywhere. It is all around us, a rich minefield of information that
+            can easily be transformed into useful insights and solutions to real world problems.<br/>
+
+            <br/> As a child, I’ve always loved patterns and found puzzle solving to be an exhilaratingly
+            challenging pastime. And that’s what data is to me, a complicated puzzle that I can't wait to solve!</p>
     </RecRec>
-      <h3>Interests</h3>
-        <RecDes><ul><li>Volunteering</li><li>Cooking</li><li>Rockclimbing</li></ul></RecDes>
+      <h3 style={{ color: '#395696'}}>Interests</h3>
+        <RecDes><ul><li style={{ color: '#395696'}}>Classical Literature</li>
+            <li style={{ color: '#395696'}}>Stardew Valley</li>
+            </ul></RecDes>
         <hr/>
   </RecWrapper>
   </Layout>
