@@ -36,10 +36,10 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "next build",
+    "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "now-build": "npm run build",
+    "now-build": "gatsby build",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
