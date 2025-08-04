@@ -3,23 +3,23 @@
 export default [
 	{
 		id: 5,
-		name: "Down",
-		designation: "iOS Developer",
-		dated: "March 2021 - June 2021",
+		name: "University of Glasgow",
+		designation: "Student Software Developer",
+		dated: "Sep 2024 - Sep 2025",
 		logo: null,
 		companyLink: null,
 		description:
-			"<p> <ul><li>Developed wireframes and mockup prototypes for an early stage start up</li><li>Programmed a social media application using React Native and Firebase to host and join local events</li></p>"
+			"<p> <ul><li>Developed various web applications and other software throughout the master's conversion program.</li><li>Developed a language learning web app using Django in final project.</li></p>"
 	},
 	{
 		id: 4,
-		name: "YCAB Foundation",
-		designation: "Intern",
-		dated: "September 2020 - November 2020",
+		name: "Radius Asia, Taiwan",
+		designation: "Language Instructor",
+		dated: "September 2022 - June 2024",
 		logo: null,
 		companyLink: "http://www.ycabfoundation.org",
 		description:
-			"<p> <ul><li>Conducted primary and secondary research on sustainability of an AI chatbot on stunting and mental health to raise awareness and provide easy access to information for users</li><li>Analyzed 13 surveys (n = 67,000) for Rahasia Gadis’ 3.2 million followers to identify characteristics of their community to drive further growth</li><li>Initiated better targeting of potential sponsors by building a database of 75 high potential contacts</li></p>"
+			"<p> <ul><li>Developed strong cross-cultural communication skills through teaching Indonesian to Taiwanese.</li><li>Conducted end-of-semester oral examinations, improving students' ability in their Indonesian language skills.</li><li>Learned to explain complex grammatical structures in simple way to students.</li></p>"
 	},
 	{
 		id: 3,
