@@ -1,4 +1,5 @@
 import languatale1 from '../assets/images/languatale.png'
+import cinematown1 from '../assets/images/cinematown1.png'
 
 export default [
     {
@@ -16,7 +17,7 @@ export default [
       id: 2,
       title: "CinemaTown",
       description1: "Web application that allow users to explore, rate and review movies.",
-      icon: null,
+      icon: cinematown1,
       githubPath: "https://github.com/emerennovena/cinematown",
       demoPath: null,
       year: "2025",
