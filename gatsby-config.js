@@ -1,6 +1,10 @@
 module.exports = {
+  flags: {
+    FAST_DEV: true,
+    DEV_SSR: false,
+  },
   siteMetadata: {
-    title: 'Cheryll Gunawan',
+    title: 'Emerentia Novena',
     siteUrl: 'http://rashmiap.me',
   },
   plugins: [

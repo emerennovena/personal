@@ -16,12 +16,12 @@ const IndexPage = () => {
 		<Layout>
 			<UserWrapper>
 				<UserTitle>
-					Cheryll <span>Gunawan</span>
+					Emerentia <span>Novena</span>
 				</UserTitle>
 				<UserDescription>
 					<div>
 						<p>
-							Hello there, welcome to my portfolio. I am an aspiring data analyst!
+							Hello there, welcome to my portfolio.
 						</p>
 						<DownloadButton
 							href="https://github.com/rashmiap/personal-website-react/raw/master/RashmiAp-Resume.pdf"
