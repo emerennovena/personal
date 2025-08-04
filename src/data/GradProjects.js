@@ -21,15 +21,5 @@ export default [
       demoPath: null,
       year: "2021",
       techUsed: "Ionic, Cordova"
-    },
-    {
-      id: 3,
-      title: "Spotify Browser",
-      description1: "Webpage implementation that supports searching for artists, albums, and tracks in Spotify.",
-      icon: null,
-      githubPath: "https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fcheryllg%2FSpotify-Browser&sa=D",
-      demoPath: null,
-      year: "2021",
-      techUsed: "Angular"
     }
 ]

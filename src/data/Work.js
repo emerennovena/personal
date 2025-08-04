@@ -17,38 +17,28 @@ export default [
 		designation: "Language Instructor",
 		dated: "September 2022 - June 2024",
 		logo: null,
-		companyLink: "http://www.ycabfoundation.org",
+		companyLink: null,
 		description:
 			"<p> <ul><li>Developed strong cross-cultural communication skills through teaching Indonesian to Taiwanese.</li><li>Conducted end-of-semester oral examinations, improving students' ability in their Indonesian language skills.</li><li>Learned to explain complex grammatical structures in simple way to students.</li></p>"
 	},
 	{
 		id: 3,
-		name: "Analyst Intern",
-		designation: "PT Binabakti Mitra Gemilang",
-		dated: "July 2019 - September 2019",
+		name: "Feng Chia University",
+		designation: "Student Office Assistant",
+		dated: "September 2021 - June 2024",
 		logo: null,
 		companyLink: null,
 		description:
-			"<ul><li>Conducted customer survey for ~70 customers to assess satisfaction rate and pain points to propose recommendations for improving customer experience</li><li>Researched ~10 medical health equipment lines to prioritize the most profitable products</li></p>"
+			"<ul><li>Strengthened Chinese communication skills by providing administrative support in a busy academic setting.</li><li>Assisted with various departmental activities to ensure smooth operations.</li></p>"
 		},
 	{
 		id: 2,
-		name: "Analyst Intern",
-		designation: "PT Binabakti Mitra Gemilang",
-		dated: "July 2018 - September 2018",
+		name: "The Period Purse, Canada",
+		designation: "Intern",
+		dated: "December 2019",
 		logo: null,
 		companyLink: null,
 		description:
-		"<ul><li>Conducted customer survey for ~70 customers to assess satisfaction rate and pain points to propose recommendations for improving customer experience</li><li>Researched ~10 medical health equipment lines to prioritize the most profitable products</li></p>"
-	},
-	{
-		id: 1,
-		name: "Habitat for Humanity",
-		designation: "Intern",
-		dated: "​April 2016 - November 2016",
-		logo: null,
-		companyLink: "https://www.habitat.org/where-we-build/indonesia",
-		description:
-		"<ul><li>Spearheaded partnerships with 6 different schools and mobilized ~290 students to participate in community service events, building 15 houses for the less fortunate</li><li>Organized and led large scale fundraising events, including Horrority Run, Charnival, and Blip Run, raising over $800 in 6 months</li></p>"
+		"<ul><li>Conducted marketing research for a non-profit organisation to assess satisfaction rate and pain points to propose recommendations for improving customer experience.</li><li>Analysed ~10 competitors to prioritise the most profitable products.</li></p>"
 	}
 ];

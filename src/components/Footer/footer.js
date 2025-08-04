@@ -11,27 +11,22 @@ const Footer = ({ footerClass }) => (
 	<div className={`defaultFooter ${footerClass}`}>
 		<p>
 			<a
-				href="mailto:cheryllgunawan@gmail.com"
+				href="mailto:emerennovena@gmail.com"
 				target="_blank"
 				rel="noreferrer"
 			><img src={gmail}/></a>
 			&emsp;<a
-				href="https://github.com/cheryllg"
+				href="https://github.com/emerennovena"
 				target="_blank"
 				rel="noreferrer"
 			><img src={github}/></a>
 			&emsp;
 			<a
-				href="https://www.linkedin.com/in/cheryll-g-811854125"
+				href="https://www.linkedin.com/in/emerentianovena/"
 				target="_blank"
 				rel="noreferrer"
 			><img src={linkedin}/></a>
 			&emsp;
-			<a
-				href="https://www.kaggle.com/CheryllGunawan"
-				target="_blank"
-				rel="noreferrer"
-			><img src={kaggle}/></a>
 		</p>
 	</div>
 );
