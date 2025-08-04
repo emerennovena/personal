@@ -1,13 +1,13 @@
 import React from 'react'
 import { RecWrapper, RecBox, RecDes, RecRec } from '../styles/recStyle.js'
 import Layout from '../components/layout'
-import newme from '../assets/images/newme.jpg'
+import newnewme from '../assets/images/newnewme2.jpg'
 
 const AboutMe = () => (
   <Layout>
   <RecWrapper>
     <RecRec>
-        <img src={newme} height="500px" />
+        <img src={newnewme} height="250px" />
         
         <p style={{ color: '#395696'}}>
             <h1>Why Business Technology?</h1>

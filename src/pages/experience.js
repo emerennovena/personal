@@ -62,14 +62,10 @@ const Experience = () => (
 						<div key={item.id}>
 							<p>
 								{item.name}
-								<p>B.S in {item.major}</p>
+								<p>{item.degree} in {item.major}</p >
 								{item.dated}
 							</p>
 
-							<p>
-								Google Data Analytics Certification, Coursera
-								<br></br>2021
-							</p>
 						</div>
 					))}
 				</EdContent>
