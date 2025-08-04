@@ -3,8 +3,6 @@ import linkedin from '../assets/images/linkedin-icon.svg'
 import kaggle from '../assets/images/kaggle-icon.svg'
 
 
-
-
 export default [
     {
         id: 3,

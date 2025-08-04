@@ -1,5 +1,4 @@
 
-import down from '../assets/images/down.png'
 import sleeptracker from '../assets/images/sleeptracker.png'
 import sbrowser from '../assets/images/spotifybrowser.png'
 
@@ -7,7 +6,7 @@ export default [
     {
         id: 1,
         title: "Down",
-        icon: down,
+        icon: null,
         description1: "Capstone Project Course: Project in Software System Design. ",
         description2: "Built a mobile application, a service for users to explore, join and create local events",
         githubPath: null,

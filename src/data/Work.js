@@ -1,7 +1,4 @@
-import amygb from "../assets/images/amygb-logo.png";
-import zoojoobe from "../assets/images/zjb-logo.svg";
-import cat from "../assets/images/cat-logo.svg";
-import sequoia from "../assets/images/sequoia-logo.svg";
+
 
 export default [
 	{

@@ -4,20 +4,20 @@ export const aboutWebsite = {
     "@context": "http://schema.org",
     "@type": "WebSite",
     "url": "http://rashmiap.me",
-    "name": "Cheryll Gunawan | Daata Analyst",
+    "name": "Emerentia Novena",
     "author": {
         "@type": "Person",
-        "name": "Cheryll Gunawan"
+        "name": "Emerentia Novena"
     }
 }
 export const siteMeta = {
-    title: 'Cheryll Gunawan | Data Analyst',
+    title: 'Emerentia Novena',
     favicon: favicon,
-    author: "Cheryll Gunawan",
+    author: "Emerentia Novena",
     description: "Hello there, welcome to my portfolio. I am a front end developer, visual artist and an animal lover based out of Bangalore.",
     copyright: "Rashmi AP, Copyright (c) 2018",
     keywords: [
-        "Cheryll Gunawan",
+        "Emerentia Novena",
         "data analyst",
         "frontend developer",
         "fullstack engineer",

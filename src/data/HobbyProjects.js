@@ -1,11 +1,10 @@
-import cyclistic from '../assets/images/cyclistic.png'
-import bellabeat from '../assets/images/bellabeat.png'
+
 
 export default [
 	{
 		id: 1,
 		title: "Cyclistic",
-		icon: cyclistic,
+		icon: null,
 		description1:
 			"Google Data Analytics Capstone Project: Case Study 1. ",
 		description2: "Analyzed 12 months of data to provide marketing strategies",
@@ -17,7 +16,7 @@ export default [
 	{
 		id: 2,
 		title: "Bellabeat",
-		icon: bellabeat,
+		icon: null,
 		description1:
 			"Google Data Analytics Capstone Project: Case Study 2.",
 		description2:	"Analysed activity of 33 users to provide recommendations for marketing strategies.",

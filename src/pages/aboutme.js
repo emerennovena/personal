@@ -1,5 +1,4 @@
 import React from 'react'
-import rec from '../data/AboutMe'
 import { RecWrapper, RecBox, RecDes, RecRec } from '../styles/recStyle.js'
 import Layout from '../components/layout'
 import me from '../assets/images/me.jpg'

@@ -5,7 +5,6 @@ import styled from "styled-components";
 import { siteMeta } from "../data/Seo";
 import Helmet from "react-helmet";
 import favicon from "../assets/images/rash-favicon.png";
-import whitebg from "../assets/images/white-bg.jpeg";
 import { Location } from "@reach/router";
 import "../layouts/index.css";
 import Navbar from "./Navbar/Navbar";
