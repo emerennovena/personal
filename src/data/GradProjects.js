@@ -15,11 +15,11 @@ export default [
     {
       id: 2,
       title: "CinemaTown",
-      description1: "Mobile application that allow users to explore, join and create local events.",
+      description1: "Web application that allow users to explore, rate and review movies.",
       icon: null,
-      githubPath: "https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fcheryllg%2FSleep-Tracker-Ionic&sa=D",
+      githubPath: "https://github.com/emerennovena/cinematown",
       demoPath: null,
-      year: "2021",
-      techUsed: "Ionic, Cordova"
+      year: "2025",
+      techUsed: "Django, Axure RP"
     }
 ]
