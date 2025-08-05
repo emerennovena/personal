@@ -1,28 +1,30 @@
-
+import canva1 from '../assets/images/canva1.png'
+import canva2 from '../assets/images/canva2.png'
 
 export default [
 	{
 		id: 1,
-		title: "Project1",
-		icon: null,
+		title: "Introduction",
+		icon: canva1,
 		description1:
-			"Google Data Analytics Capstone Project: Case Study 1. ",
-		description2: "Analyzed 12 months of data to provide marketing strategies",
+			"Forage Part 1: UX Design Introduction",
+		description2: "Designed and analysed customer surveys, collecting feedback from 50 respondents to identify key areas for feature improvement.",
 		kagglePath:null,
 		demoPath: null,
-		year: "2021",
-		techUsed: "R, Microsoft Excel",
+		year: "2025",
+		techUsed: "Microsoft Excel",
 	},
 	{
 		id: 2,
-		title: "Project2",
-		icon: null,
+		title: "Advanced",
+		icon: canva2,
 		description1:
-			"Google Data Analytics Capstone Project: Case Study 2.",
-		description2:	"Analysed activity of 33 users to provide recommendations for marketing strategies.",
+			"Forage Part 2: UX Design Advanced",
+		description2:	"Researched customer spending habits and developed a customer value proposition",
 		kagglePath: null,
 		demoPath: null,
-		year: "2021",
-		techUsed: "R, Microsoft Excel",
+		year: "2025",
+		techUsed: "Microsoft Word, Canva",
 	},
 ];
+

@@ -5,7 +5,7 @@ module.exports = {
   },
   siteMetadata: {
     title: 'Emerentia Novena',
-    siteUrl: 'http://rashmiap.me',
+    siteUrl: 'https://emerentianovena.vercel.app/',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

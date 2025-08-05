@@ -32,7 +32,7 @@ const IndexPage = () => {
 									Download Resume
 								</DownloadButton>
 							</div>
-							<img src={RashSelfIcon} alt="rashmi self" />
+							<img src={RashSelfIcon} alt="self" />
 						</>
 					</UserDescription>
 
