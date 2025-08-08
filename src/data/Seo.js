@@ -3,7 +3,7 @@ import favicon from '../assets/images/rash-favicon.png'
 export const aboutWebsite = {
     "@context": "http://schema.org",
     "@type": "WebSite",
-    "url": "http://rashmiap.me",
+    "url": "http://emerentianovena.vercel.app",
     "name": "Emerentia Novena",
     "author": {
         "@type": "Person",
@@ -14,8 +14,8 @@ export const siteMeta = {
     title: 'Emerentia Novena',
     favicon: favicon,
     author: "Emerentia Novena",
-    description: "Hello there, welcome to my portfolio. I am a front end developer, visual artist and an animal lover based out of Bangalore.",
-    copyright: "Rashmi AP, Copyright (c) 2018",
+    description: "Hello there, welcome to my portfolio.",
+    copyright: "Emerentia Novena, Copyright (c) 2025",
     keywords: [
         "Emerentia Novena",
         "data analyst",

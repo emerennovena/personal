@@ -40,6 +40,7 @@ const Layout = ({ children }) => (
 		render={(data) => (
 			<>
 				<Helmet
+					defer={false}
 					title={data.site.siteMetadata.title}
 					meta={[
 						{ name: "description", content: siteMeta.description },

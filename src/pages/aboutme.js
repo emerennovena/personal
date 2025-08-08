@@ -11,7 +11,7 @@ const AboutMe = () => (
         
         <p style={{ color: '#395696'}}>
             <h1>About Me</h1>
-            I’m studying Software Development but I’m most interested in combining business and technology.
+            I’m currently studying Software Development, transitioning from a language education background.
             <br/>
 
             <br/>Growing up, I was into everything: arts, languages, music, books. Technology allows me to learn

@@ -36,6 +36,7 @@ export default class Layout extends Component {
                 <Helmet>
                     <title>{siteMeta.title}</title>
                     <link rel="icon" href={favicon} />
+                    <meta name="description" content="Hello there, welcome to my portfolio." />
                 </Helmet>
                 <Header />
                 <Wrapper>{this.props.children}</Wrapper>

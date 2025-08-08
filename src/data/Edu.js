@@ -4,13 +4,13 @@ export default [
         name: "University of Glasgow, UK",
         major: "Software Development",
         degree: "Master",
-        // dated: "2024-2025"
-    },
-    {
-        id: 2,
-        name: "Humber College, Canada",
-        major: "Business",
-        degree: "Diploma",
-        // dated: "2019-2020"
-    },
+        dated: "Sep 2024 - Sep 2025"
+    }
+    // {
+    //     id: 2,
+    //     name: "Humber College, Canada",
+    //     major: "Business",
+    //     degree: "Diploma",
+    //     dated: "2019-2020"
+    // },
 ];
